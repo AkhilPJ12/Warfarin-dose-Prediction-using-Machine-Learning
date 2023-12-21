@@ -1,0 +1,3 @@
+Age,Gender,Race,Weight,Height,Diabetes,Simvastatin (Zocor),Amiodarone (Cordarone),Target INR,INR on Reported Therapeutic Dose of Warfarin,Cyp2C9 genotypes,VKORC1 genotype: -1639 G>A (3673); chr16:31015190; rs9923231; C/T,Model,Therapeutic Dose of Warfarin,flag,username,timestamp
+35,Male,"White, Caucasian or Middle Eastern",160,170,1,0,0,0,1,*2,A/G,Decision Tree,,,,2022-12-16 18:57:54.410908
+35,Male,"White, Caucasian or Middle Eastern",160,170,1,0,0,0,1,*2,A/G,Decision Tree,,,,2022-12-16 18:57:54.625849
